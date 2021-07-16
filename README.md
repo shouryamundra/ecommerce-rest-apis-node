@@ -29,6 +29,7 @@ Add Reviews
 Add wishlist
 Our store locations
 filtering, pagination 
+adding description and category to model
 
 inspiration -: https://github.com/Tris-909/Ecommerce-ProShop
 
