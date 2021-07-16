@@ -23,3 +23,14 @@ Change DB_URL to yours db url.
 
 
 Congratulations 🎊🎉
+
+#### TODO
+Add Reviews
+Add wishlist
+
+inspiration -: https://github.com/Tris-909/Ecommerce-ProShop
+
+
+
+
+
