@@ -27,6 +27,8 @@ Congratulations 🎊🎉
 #### TODO
 Add Reviews
 Add wishlist
+Our store locations
+filtering, pagination 
 
 inspiration -: https://github.com/Tris-909/Ecommerce-ProShop
 
